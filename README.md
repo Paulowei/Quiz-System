@@ -1,2 +1,2 @@
-# Snake.java
-The source code of an applet for snake in java
+# Quizzes 
+A back end application that allows users to create quizzes ;
